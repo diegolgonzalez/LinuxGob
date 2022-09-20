@@ -1,2 +1,2 @@
 # LinuxGob
-Sistema OPerativo LinuxGob
+Sistema Operativo LinuxPro
