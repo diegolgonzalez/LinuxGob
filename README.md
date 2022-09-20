@@ -1,2 +1,2 @@
-# LinuxGob
+# LinuxPro
 Sistema Operativo LinuxPro
