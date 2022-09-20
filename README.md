@@ -1,0 +1,2 @@
+# LinuxGob
+Sistema OPerativo LinuxGob
