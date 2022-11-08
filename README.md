@@ -1,7 +1,9 @@
 # LinuxPro
 Sistema Operativo LinuxPro
 
-1. Para poder levantar el proyecto se debe ingresar a settings dentro del proyecto
-2. En confoguracion General -> Code and automation -> Pages -> Build and deployment Seleccionar en Source el branch donde se encuentra la pagina web
-3. Luego seleccionar en sources "GitHub Actions"
-4. Ingresando al sitio que nos genero "https://diegolgonzalez.github.io/LinuxPro/" podemos ver la pagina index.html de nuestro sitio 
+Previamente debe tener instalado npm y nodejs en su ordenador para levantar el proyecto
+
+1. Para poder levantar el proyecto clonar el branch server-version
+2. Dentro de la carpeta descargada instalar los modulos con npm (npm i)
+3. Ejecutar node index.js
+4. Ingresando al sitio https://localhost:3000 
