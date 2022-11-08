@@ -1,0 +1,28 @@
+{
+  "name": "server-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegolgonzalez/LinuxPro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegolgonzalez/LinuxPro/issues"
+  },
+  "homepage": "https://github.com/diegolgonzalez/LinuxPro#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.2",
+    "font-awesome": "^4.7.0",
+    "howler": "^2.2.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
